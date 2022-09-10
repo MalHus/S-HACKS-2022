@@ -1,1 +1,5 @@
-# S:\HA<KS 2022 (Team J)
+# S:\HA<KS 2022 
+
+Prototype on Figma: https://www.figma.com/proto/cGY8fSApapwFz1tqm7BiWl/SheHacks-Prototype?node-id=9%3A15&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A11&show-proto-sidebar=1 
+
+Pitch: https://share.vidyard.com/watch/7yF6cEgqhwiuQU3KDyHWFk
