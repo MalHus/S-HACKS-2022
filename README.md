@@ -1,12 +1,20 @@
 # S:\HA<KS 2022 
 
-Challenge: Create a technology focused solution that helps Scotiabank improve the financial literacy of its customers through economic fluctuations in Canada.
+The following was the submission for **S:\HA<KS**, Scotiabank's Annual Student Hackathon and was completed in a group of four using **Figma**.
 
-Prototype (Figma): https://www.figma.com/proto/cGY8fSApapwFz1tqm7BiWl/SheHacks-Prototype?node-id=9%3A15&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A11&show-proto-sidebar=1 
+## Welcome ScotiaWise! 
 
-Pitch: https://share.vidyard.com/watch/7yF6cEgqhwiuQU3KDyHWFk
+https://user-images.githubusercontent.com/95773832/211120173-14118eb1-cba3-49bf-bbeb-c66f547ad120.mp4
 
 
 
-https://user-images.githubusercontent.com/95773832/211119194-7017c308-b75c-4b71-8457-6afee1307806.mp4
+## Challenge Statement
+Create a technology focused solution that helps Scotiabank improve the **financial literacy** of its customers through economic fluctuations in Canada.
 
+## Overview of Solution
+ScotiaWise ... <br />
+📚 IS an app that **revolutionizes** access to financial literacy for Scotiabank users, as well as non-users <br />
+⭐ HELPS users reach their **financial goals** through a **scene points-reward system** and by **tailoring content** to their respective needs <br />
+💻 CONNECTS the consumer with information relevant to their goals and presents them in a **digestible manner** <br />
+💡 TAKES a **customer-first approach** identifying groups of clients that are disproportionately affected by the issue of financial illiteracy and focuses on: students/young adults, seniors, low income households and remote communities <br />
+📱 OFFERS **challenges** (daily quizzes) to test the user's financial knowledge, and utilizes this data to connect users to Scotiabank's pre-existing resources (articles, videos) <br />
