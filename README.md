@@ -5,7 +5,7 @@ The following was the submission for **S:\HA<KS**, Scotiabank's Annual Student H
 ## Challenge Statement
 Create a technology focused solution that helps Scotiabank improve the **financial literacy** of its customers through economic fluctuations in Canada.
 
-## Welcome ScotiaWise! 
+## Welcome Scotia Wise! 
 
 https://user-images.githubusercontent.com/95773832/211120173-14118eb1-cba3-49bf-bbeb-c66f547ad120.mp4
 
@@ -14,7 +14,8 @@ https://user-images.githubusercontent.com/95773832/211120173-14118eb1-cba3-49bf-
 
 
 ## Overview of Solution
-ScotiaWise ... <br />
+
+Scotia Wise ... <br />
 📚 IS an app that **revolutionizes** access to financial literacy for Scotiabank users, as well as non-users <br />
 ⭐ HELPS users reach their **financial goals** through a **scene points-reward system** and by **tailoring content** to their respective needs <br />
 💻 CONNECTS the consumer with information relevant to their goals and presents them in a **digestible manner** <br />
