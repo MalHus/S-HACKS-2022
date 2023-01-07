@@ -21,5 +21,4 @@ Scotia Wise ... <br />
 - CONNECTS the consumer with information relevant to their goals and presents them in a **digestible manner** <br />
 - TAKES a **customer-first approach** identifying groups of clients that are disproportionately affected by the issue of financial illiteracy and 
 focuses on students/young adults, seniors, low income households and remote communities <br />
-- OFFERS **challenges** to test the user's financial knowledge and utilizes this data to connect users to Scotiabank's **pre-existing resources**  
-(articles, videos) <br />
+- OFFERS **challenges** to test the user's financial knowledge and utilizes this data to connect users to Scotiabank's **pre-existing resources** (articles, videos) <br />
