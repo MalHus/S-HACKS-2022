@@ -20,5 +20,5 @@ Scotia Wise ... <br />
 ⭐ HELPS users reach their **financial goals** through a **scene points-reward system** and by **tailoring content** to their respective needs <br />
 💻 CONNECTS the consumer with information relevant to their goals and presents them in a **digestible manner** <br />
 💡 TAKES a **customer-first approach** identifying groups of clients that are disproportionately affected by the issue of financial illiteracy and focuses 
-on: students/young adults, seniors, low income households, remote communities <br />
+    on: students/young adults, seniors, low income households, remote communities <br />
 📱 OFFERS **challenges** (daily quizzes) to test the user's financial knowledge, and utilizes this data to connect users to Scotiabank's pre-existing resources (articles, videos) <br />
